@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "An all-in-one application powered by Gemini to generate text, code, images, and videos. Animate your photos, chat with an AI, and bring your creative ideas to life.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
